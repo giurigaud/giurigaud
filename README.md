@@ -4,7 +4,7 @@
 
 graduated in chemistry at UFBA. 
 
-Currently learning how to become a developer with the support of @cubos-academy.
+Currently learning how to become a developer with the support of @cubos-academy
 
 learning:
 SQL, HTML 5, CSS, JS.
