@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Giuliana Rigaud, 
+
+graduated in chemistry at UFBA. 
+
+Currently learning how to become a developer with the support of @cubos-academy.
+
+learning:
+SQL, HTML 5, CSS, JS.
+
+Super excited to learn more each day. 
+
+
 <!--
 **giurigaud/giurigaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
