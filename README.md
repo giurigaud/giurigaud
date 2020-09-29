@@ -6,11 +6,13 @@ graduated in chemistry at UFBA.
 
 Currently learning how to become a developer with the support of [@cubos-academy](https://github.com/cubos-academy)
 
+Learning:
+ ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+ ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+ ![SQL](https://img.shields.io/badge/SQL-%20-red)
 
-learning:
-SQL, HTML 5, CSS, JS.
-
-*Super excited to learn more each day.* 
+#### *Super excited to learn more each day.*
 
 
 <!--
