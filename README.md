@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Giuliana Rigaud, 
+**I'm Giuliana Rigaud**, 
 
 graduated in chemistry at UFBA. 
 
@@ -9,7 +9,7 @@ Currently learning how to become a developer with the support of @cubos-academy.
 learning:
 SQL, HTML 5, CSS, JS.
 
-Super excited to learn more each day. 
+*Super excited to learn more each day.* 
 
 
 <!--
